@@ -1,4 +1,4 @@
-[TOC]
+
 
 # Getting Started ![](https://i.imgur.com/tHVBxR3.png)
 ![](https://i.imgur.com/2nwEw3t.png)
@@ -27,6 +27,8 @@
 
 # Appium Keyword Based(AKB)
 ![](https://i.imgur.com/NQlR781.png)
+
+[Demo](https://www.youtube.com/watch?v=cTVBHPrcw6Q&feature=youtu.be)
 
 ## 設定Config
 ![](https://i.imgur.com/UMwmlwN.png)
